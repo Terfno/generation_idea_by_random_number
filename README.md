@@ -1,0 +1,2 @@
+# generation_idea_by_random_number
+Siv3Dの鈴木さんの記事`乱数でアイデアを生成する`をPythonで実装してみた
